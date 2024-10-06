@@ -1,5 +1,3 @@
-# Just a dumping ground for Docker scripts I run
-
 ## needs_restart.pl  
 This script just compares the checksum of running containers against the latest pulled image.
 It doesn't connect to dockerhub or anything like that.
